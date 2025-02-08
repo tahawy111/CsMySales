@@ -1,0 +1,6 @@
+create table login_program
+(
+	username varchar(35) primary key,
+	password varchar(35) not null,
+	is_active bit 
+)
