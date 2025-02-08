@@ -6,6 +6,12 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>cash_register_icon_192650.ico</ApplicationIcon>
+    <ApplicationManifest></ApplicationManifest>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="cash_register_icon_192650.ico" />
+  </ItemGroup>
 
 </Project>
